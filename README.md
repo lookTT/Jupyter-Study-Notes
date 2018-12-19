@@ -1,18 +1,18 @@
-Jupyter Notebook
-====
+#Jupyter Notebook
+
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
 其实他想说的是：我最牛逼，我最刁，全世界都在用
 
-1、python3.x安装
---------------
+##1、python3.x安装
+
 官网下载即可 https://www.python.org/
 苹果的Mac OS 自带了 python2.7.x ，需要另行安置python3.x 。 但是由于系统运行依赖于自带的 Python2.7.x，因此请务必不要删除系统自带版本 
 
 记得勾选 Add Python to PATH，以便在系统环境中直接运行python。
 
-2、Jupyter Notebook安装
---------------
+##2、Jupyter Notebook安装
+
 输入：
 
     $ pip3 install jupyter
@@ -26,7 +26,7 @@ PS:windows需要以管理员身份运行命令提示符
 就可以启动 Jupyter Notebook
 
 
-安装必须的库
+###安装必须的库
 
 Mac：
 
