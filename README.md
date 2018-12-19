@@ -45,17 +45,13 @@ windows需要手动下载安装Numpy+MKL和Scipy
 
 找到适合自己的版本
 
-本人使用的是
-
-    numpy‑1.15.4+mkl‑cp37‑cp37m‑win_amd64.whl
+本人使用的是：*numpy‑1.15.4+mkl‑cp37‑cp37m‑win_amd64.whl*
 
 搜索下载安装：SciPy is
 
 找到适合自己的版本
 
-本人使用的是
-
-    scipy‑1.2.0‑cp37‑cp37m‑win_amd64.whl
+本人使用的是：*scipy‑1.2.0‑cp37‑cp37m‑win_amd64.whl*
 
 管理员运行命令提示符  安装两个特殊的库
 
