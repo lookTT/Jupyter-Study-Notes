@@ -15,7 +15,7 @@ The Jupyter Notebook is an open-source web application that allows you to create
 --------------
 输入：
 
-    $ pip3 install jupyter
+    $ pip install jupyter
 
 PS:windows需要以管理员身份运行命令提示符
 
@@ -31,7 +31,7 @@ PS:windows需要以管理员身份运行命令提示符
 
 Mac：
 
-    $ sudo pip3 install numpy scipy matplotlib ipython pandas scikit-learn
+    $ sudo pip install numpy scipy matplotlib ipython pandas scikit-learn
 
 Mac安装比较舒服只需要一个命令即可
 
