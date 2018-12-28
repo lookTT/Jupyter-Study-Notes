@@ -29,13 +29,13 @@ PS:windows需要以管理员身份运行命令提示符
 3、安装必须的库
 --------------
 
-**Mac：
+**Mac：**
 
     $ sudo pip3 install numpy scipy matplotlib ipython pandas scikit-learn
 
 Mac安装比较舒服只需要一个命令即可
 
-**Windows：
+**Windows：**
 
 windows需要手动下载安装Numpy+MKL和Scipy
 
